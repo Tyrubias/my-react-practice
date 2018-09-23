@@ -17,6 +17,10 @@ export default class Pirates extends Component {
                                 <p>
                                     This page is available on a need-to-know basis. If you don't need to know, get out.
                                 </p>
+                                <p>
+
+                                CHANGE: I would like to know what is available on this page. Spill.
+                                </p>
                             </Message>
                         </Grid.Column>
                     </Grid.Row>
